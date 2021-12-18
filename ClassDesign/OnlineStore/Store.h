@@ -1,4 +1,4 @@
-// I ran out of time for section C but I want to submit what I have and explain what I understand
+// I struggled a lot through this section and ran out of time but I want to submit what I have and comment what I understand
 
 #include <iostream>
 #include <string>
